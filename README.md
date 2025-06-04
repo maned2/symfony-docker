@@ -1,7 +1,7 @@
 # symfony-docker
 Simplest docker for Symfony
 
-If you don't want to install docker or Symfony on your local machine, 
+If you don't want to install php, composer or Symfony on your local machine, 
 but you have installed docker - you can use this repo to create and develop symfony projects
 
 ## Local dev
